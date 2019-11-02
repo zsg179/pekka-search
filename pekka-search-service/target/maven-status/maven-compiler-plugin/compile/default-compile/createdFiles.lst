@@ -1,0 +1,5 @@
+com\pekka\search\service\impl\SearchItemServiceImpl.class
+com\pekka\search\listener\ItemAddMessageListener.class
+com\pekka\search\service\impl\SearchServiceImpl.class
+com\pekka\search\mapper\SearchItemMapper.class
+com\pekka\search\dao\SearchDao.class
